@@ -1,0 +1,163 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.header{
+    width: 1100px;
+    height: 60px;
+    margin: 0 auto;
+    display: flex;
+    background-color: whitesmoke;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo{
+    width: 50%;
+}
+.logo h3{
+    text-align: center;
+}
+.na{
+    width: 70%;
+}
+.na ul{
+    display: flex;
+    justify-content: space-around;
+}
+.na ul li a{
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.social-icon{
+    width: 50%;
+    text-align: center;
+}
+.sec2{
+    height: 300px;
+    width: 100%;
+    background-color: rgb(233, 236, 226);
+    padding-top: 20px;
+    align-items: center;
+}
+.middle{
+    width: 80%;
+    margin:0 auto;
+    padding-top: 50px;
+}
+.left-cont{
+    width: 500px;
+    height: 250px;
+    float:left;
+}
+.left-cont button{
+    background-color: orangered;
+    border: 2px solid orangered;
+
+}
+.left-cont button:hover{
+    color:aqua;
+}
+.left-cont h1{
+    margin: 50px;
+}
+.image{
+    width: 100px;
+    float: left;
+    height: 300px;
+}
+.image img{
+    height: 250px;
+    width: 500px;
+}
+
+
+.header-section2{
+    width: 1320px;
+    margin: 0 auto;
+    display: flex;
+    height: 70px;
+    background-color: whitesmoke;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo{
+    width: 20%;
+}
+.logo h2{
+    text-align: center;
+}
+.nav{
+    width: 50%;
+}
+.nav ul{
+    display: flex;
+    justify-content: space-around;
+}
+.nav ul li{
+    list-style: none;
+}
+.nav ul li a{
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.food-container{
+    width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+.food-item{
+    height: 220px;
+    margin: 20px;
+    width: 180px;
+    border: 2px solid orangered;
+    padding: 5px;
+    border-radius: 10px;
+}
+.food-item img{
+    height: 180px;
+    width: 100%;
+}
+.food-item h4{
+    text-align: center;
+}
+.container2{
+    width: 1300px;
+    height: 200px;
+    
+}
+.container2 img{
+    width: 1300px;
+    height: 200px;
+}
+.choose-item{
+    height: 300px;
+    width: 100%;
+}
+ .heading h2{
+    text-align: left;
+    padding-top: 10px;
+    background-color: whitesmoke;
+
+}
+.item-all{
+    width: 80%;
+    height: 200px;
+    margin: 0 auto;
+    margin-top: 20px;
+    padding-top: 10px;
+    background-color: white;
+}
+.-item{
+    width: 30%;
+    height: 150px;
+    margin-left:40px;
+    float: left;
+}
+.-item img{
+    height: 200px;
+    width: 300px;  
+   
+
+}
